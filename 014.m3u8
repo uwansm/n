@@ -6,3 +6,5 @@ https://delivery.ksa.my.id/stream/id_kompastv/playlist.m3u8?token=ym1wtrp
 http://185.243.7.51/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683194&extension=m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683194&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://raw.githubusercontent.com/uwansm/n/0/014a.m3u8
