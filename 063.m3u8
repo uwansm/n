@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://delivery.ksa.my.id/stream/bbc_earth/playlist.m3u8?token=ym1wtrp
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://89.45.12.103/play/live.php?mac=00:1a:79:70:39:2a&stream=115621&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://89.45.12.103/play/live.php?mac=00:1a:79:70:39:2a&stream=115622&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://89.45.12.103/play/live.php?mac=00:1a:79:70:39:2a&stream=115624&extension=m3u8
