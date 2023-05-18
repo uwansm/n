@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-http://v2.siar.us/jawapostv/live/chunks.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-http://video2.onlivestreaming.net/jawapostv/live/chunks.m3u8
