@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=7373779, CODECS="avc1.64002A, mp4a.40.2", AUDIO="audio_0"
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/05.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO, URI="https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/06.m3u8"
