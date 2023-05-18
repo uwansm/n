@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-https://delivery.ksa.my.id/stream/magnachannel/playlist.m3u8?token=ym1wtrp
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_b3884000_sleng.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-https://raw.githubusercontent.com/uwansm/n/0/013a.m3u8
