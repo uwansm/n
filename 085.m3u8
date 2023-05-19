@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-https://delivery.ksa.my.id/stream/techstorm/playlist.m3u8?token=ym1wtrp
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-https://raw.githubusercontent.com/uwansm/n/0/085a.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=7373779, CODECS="avc1.64002A, mp4a.40.2", AUDIO="audio_0"
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO, URI="https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/06.m3u8"
